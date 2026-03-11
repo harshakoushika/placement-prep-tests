@@ -2,12 +2,8 @@
 
 This repository contains practice questions collected from technical assessments and interviews.
 
-## Topics Covered
-
-- Quantitative Aptitude
-- Logical Reasoning
-- Computer Networks
-- Python Programming
+## Topics
+Aptitude | Logical Reasoning | Computer Networks | Python | Placement Preparation
 
 Each section contains questions, answers, and explanations for revision.
 
