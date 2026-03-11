@@ -1,60 +1,132 @@
-# Placement Assessment Practice
+# 📘 Placement Preparation Repository
 
-A curated collection of **technical assessment questions** covering aptitude, logical reasoning, computer networks, and Python programming.
-This repository is created to practice and revise concepts commonly asked in **placement tests and technical assessments**.
+Hi, I'm **Harsha Koushika** 👋
+This repository contains my **placement preparation materials**, including practice questions, concepts, and notes for technical and non-technical rounds.
 
----
-
-## Topics Covered
-
-* Quantitative Aptitude
-* Logical Reasoning
-* Computer Networks
-* Python Programming
-
-Each section contains **questions, answers, and explanations** for better understanding and quick revision.
+The goal of this repo is to **track my preparation and improve problem-solving skills for placements.**
 
 ---
 
-## Repository Structure
+# 📂 Repository Structure
+
+## 🧠 Aptitude Tests
+
+Contains practice questions and solutions for common aptitude topics.
+
+Topics include:
+
+* Percentages
+* Profit & Loss
+* Time and Work
+* Time, Speed & Distance
+* Ratios
+* Number Systems
+
+Folder:
 
 ```
-placement-assessment-practice
-│
-├── Aptitude
-│   └── percentages.md
-│
-├── Reasoning
-│   ├── coding-decoding.md
-│   └── sentence-arrangement.md
-│
-├── Computer-Networks
-│   └── routing-algorithms.md
-│
-└── Python
-    └── list-methods.md
+Aptitude-Tests/
 ```
 
 ---
 
-## Purpose
+## 🗄 Database
 
-The goal of this repository is to:
+Covers **SQL concepts and practice queries** used in technical interviews.
 
-* Prepare for **technical assessments**
-* Practice **aptitude and reasoning problems**
-* Strengthen **computer science fundamentals**
-* Build a **structured revision resource**
+Topics include:
+
+* SQL Basics
+* SELECT Queries
+* WHERE Clause
+* JOINs
+* GROUP BY
+* Aggregations
+* Subqueries
+
+Folder:
+
+```
+Database/
+```
 
 ---
 
-## Author
+## 💬 English Communication
 
-**Harsha Koushika Sikharam**
+Practice material for **communication rounds and verbal ability**.
 
-* GitHub: https://github.com/harshakoushika
-* LinkedIn: https://www.linkedin.com/in/harsha-koushika-a33a46284/
+Topics include:
+
+* Reading Comprehension
+* Grammar
+* Vocabulary
+* Sentence Correction
+* Communication Skills
+
+Folder:
+
+```
+english-communication/
+```
 
 ---
 
-⭐ If you find this repository helpful, feel free to **star it**.
+## 🔎 Logical Reasoning
+
+Contains reasoning problems frequently asked in aptitude tests.
+
+Topics include:
+
+* Pattern Recognition
+* Coding & Decoding
+* Series Problems
+* Puzzles
+* Logical Deduction
+
+Folder:
+
+```
+logical-reasoning/
+```
+
+---
+
+## 💻 Programming
+
+Coding problems and solutions for technical interviews.
+
+Languages and topics include:
+
+* Python
+* Data Structures
+* Problem Solving
+* Algorithm Practice
+
+Folder:
+
+```
+programming/
+```
+
+---
+
+# 🎯 Purpose of This Repository
+
+* Track my **placement preparation journey**
+* Practice **coding and problem-solving**
+* Improve **aptitude and reasoning skills**
+* Prepare for **technical and HR interview rounds**
+
+---
+
+# 🛠 Tech & Tools Used
+
+* Python
+* SQL
+* Git & GitHub
+* Markdown Documentation
+
+---
+
+⭐ If you find this repository helpful, feel free to explore the folders and practice along.
